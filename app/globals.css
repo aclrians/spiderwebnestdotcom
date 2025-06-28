@@ -1,0 +1,129 @@
+body{
+    margin:0 auto;
+    max-width: 800px;
+    min-width: 0;
+    padding: 0 10px 25px;
+    font-family: "Lusitana", serif ;
+    background-color: #541616
+    ;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #EAE0C8;
+    padding: 10px;
+    width: 780px;
+    border: 3px solid black;
+    margin: 0 auto;
+    box-shadow: -7px 10px 3px rgba(0,0,0,0.5);
+
+}
+nav a{
+    font-family: "Lusitana", sans-serif;
+    flex: 1;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    
+    
+}
+
+header{
+    text-align: center;
+    font-size: 100px;
+    background-color: #EAE0C8;
+    border: 3px solid black;
+    width: 100%;
+    max-width: 700px;
+    padding: 50px;
+    margin: 20px auto;
+    box-shadow: -7px 10px 3px rgba(0,0,0,0.5);
+    box-sizing: content-box;
+
+
+}
+
+.layout{
+    font-size: 10px;
+    background-color: #EAE0C8;
+    border: 3px solid black;
+    width: 740px;
+    padding: 10px 10px 50px 50px;  
+    padding-right: 10px;
+    margin: 20px auto;
+    box-shadow: -7px 10px 3px rgba(0,0,0,0.5);
+    display: flex;
+
+}
+
+.layout h1{
+    font-size: 30px;
+    font-family:"IBM Plex Serif", serif; ;
+}
+.layout h2 {
+    font-size: 20px;
+    font-family:"IBM Plex Serif", serif; ;
+    font-weight: normal;
+    text-decoration: none;
+    color: inherit;
+    
+}
+
+.layout h3{
+    font-size: 20px;
+    font-family:"IBM Plex Serif", serif; ;
+    font-weight: normal;
+    text-decoration: none;
+    padding-top: -15px;
+}
+
+.layout p{
+    font-size: 20px;
+    font-family:"IBM Plex Serif", serif; ;
+}
+
+main{
+    text-align: left;
+    flex: 5;
+    margin-right: 20px;
+    margin-top: 40px;
+    margin-left: -30px;
+    background-color: #A9BA9D;
+    padding: 10px;
+}
+
+.sidebar{
+    background-color: #EAE0C8;
+    flex: 1 1 50px;
+    height: auto;
+    text-align: center;
+    padding: 10px;
+    margin-top: 75px;
+    
+}
+
+.sidebar h1{
+    font-size: 25px;
+    font-family:"IBM Plex Serif", serif; ;
+}
+
+.sidebar a{
+    display: flex;
+    align-items: right;
+    font-size: 20px;
+    padding-left:15px;
+    font-family:"IBM Plex Serif", serif; ;
+    text-decoration: none;
+    color:black;
+
+}
+
+.sidebar .icon {
+    width: 20px;
+    height: 20px;
+    vertical-align: text-top;
+    margin-right: 10px;
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
