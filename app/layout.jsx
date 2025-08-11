@@ -9,7 +9,7 @@ const imbPlexSerif = IBM_Plex_Serif({ subsets: ["latin"] , weight :["400","700"]
 const lusitana = Lusitana({ subsets: ["latin"], weight:["400","700"] });
 
 export const metadata = {
-  title: "SpiderWebNest",
+  title: "spiderwebnest",
   description: "My personal website",
   icons: {
     icon: "/images/spiderwebfav.png",
@@ -20,8 +20,8 @@ export default function RootLayout({ children }) {
   return (
 <html lang="en">
       <body>
-        <header>SpiderWebNest</header>
-
+        <header>
+          <Image src = "/images/headerlogo.png" width = {700} height={200}/></header>
         <nav>
           <Link href="/">Home</Link>
           <Link href="/projects">Projects</Link>
